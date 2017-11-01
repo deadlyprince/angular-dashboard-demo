@@ -25,7 +25,7 @@
     "@angular/router": "^4.2.4",
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
-    "ht-angular": "^0.1.1-beta",
+    "ht-angular": "^0.1.4-beta",
     "leaflet": "^1.2.0",
     "moment-mini": "^2.18.1",
     "rxjs": "^5.4.2",
