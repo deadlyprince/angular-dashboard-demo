@@ -26,6 +26,7 @@
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
     "ht-angular": "^0.1.1-beta",
+    "ht-maps": "0.0.2-beta",
     "leaflet": "^1.2.0",
     "moment-mini": "^2.18.1",
     "rxjs": "^5.4.2",
