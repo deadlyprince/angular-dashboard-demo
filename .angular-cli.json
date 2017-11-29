@@ -19,7 +19,11 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.less"
+        "styles.less",
+        "../node_modules/ht-angular/styles/bulma.scss",
+        "../node_modules/ht-angular/styles/global.scss",
+        "../node_modules/ht-angular/styles/placeholder.scss",
+        "../node_modules/font-awesome/css/font-awesome.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
